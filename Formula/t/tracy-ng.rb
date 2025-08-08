@@ -1,4 +1,4 @@
-class Tracy < Formula
+class Tracy-ng < Formula
   desc "Real-time, nanosecond resolution frame profiler"
   homepage "https://github.com/wolfpld/tracy"
   url "https://github.com/wolfpld/tracy/archive/refs/tags/v0.12.2.tar.gz"
